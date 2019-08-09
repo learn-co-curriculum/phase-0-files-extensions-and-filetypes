@@ -79,6 +79,8 @@ processors_.**
 
 ## Identify the Function of File Extensions
 
+![Common Filetypes and File Extensions](https://curriculum-content.s3.amazonaws.com/html-basics/files-filetypes/Image_49_FileTypeAssets.png)
+
 Many file names have an "extension" that comes after a `.`. It is not a
 requirement, but it's a best practice. The extension is a "hint" to the
 operating system of which program should be used to work with the file.  For
@@ -102,15 +104,7 @@ a terminal, we will see full file names - including extensions.
 Here's a table to help train your instincts in seeing text- files versus
 binary-files:
 
-|File | Text or Binary | Extension | Use |
-|-----|---------------------|-----|------|
-| `beethoven_09_04_.mp3` | Binary | `.mp3` | Recording of the "Ode to Joy"|
-| `CarletonDance.gif` | Binary | `.gif` | Image of a dancer from "The Fresh Prince of Bel-Air"|
-| `fibonacci_printer.py` | Text | `.txt`| A Python program written in text; executable by the `python` _binary_ file |
-| `index.html` | Text | `.html`| An HTML File designed for sharing information on the web|
-| `LetterToGrandma.docx` | Binary | `.docx` | A binary file for Microsoft Word |
-| `minaswan.rb` | Text | `.rb` | A Ruby program file written in text; executable by the `ruby` _binary_ file |
-| `cannonball.mov` | Binary | `.mov` | A movie showing someone jumping into a swimming pool **Splash!**|
+![Table of file types](https://curriculum-content.s3.amazonaws.com/html-basics/files-filetypes/Image_49B_FileTypeChart.png)
 
 ## Conclusion
 
