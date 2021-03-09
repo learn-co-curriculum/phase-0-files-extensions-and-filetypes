@@ -101,7 +101,7 @@ that most users "no longer care about it." Since we're
 developers, though, we will frequently dig below the "end-user" layer. When in
 a terminal, we will see full file names - including extensions.
 
-Here's a table to help train your instincts in seeing text- files versus
+Here's a table to help train your instincts in seeing text-files versus
 binary-files:
 
 ![Table of file types](https://curriculum-content.s3.amazonaws.com/html-basics/files-filetypes/Image_49B_FileTypeChart.png)
