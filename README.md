@@ -53,7 +53,7 @@ language, _text_. These files are _text files_.
 
 Types of _text_ files are HTML, letters to grandma, a list of student
 grades for a grade book program, directions to Carnegie Hall, etc. We create
-these _text_ files with _text editors_ like the LearnIDE editor, Atom, Sublime
+these _text_ files with _text editors_ like Visual Studio Code, Atom, Sublime
 Text, vim, or emacs.
 
 > **ASIDE:** You might hear some developers call text files
