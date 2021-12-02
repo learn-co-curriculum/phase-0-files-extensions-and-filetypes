@@ -10,10 +10,10 @@
 
 Have you tried to memorize a phone number "for a second" as you tried to write
 it down? Maybe you kept repeating it over and over? Have you ever felt a little
-overwhelmed when someone was giving you too much information at once and you were
-trying to keep up--but felt relief when you finally "got it"? As humans, we can
-only hold a few things in our heads before they start to, well, vanish or get 
-mixed up. Our _working memory_ is not too reliable!
+overwhelmed when someone was giving you too much information at once and you
+were trying to keep up--but felt relief when you finally "got it"? As humans, we
+can only hold a few things in our heads before they start to, well, vanish or
+get mixed up. Our _working memory_ is not too reliable!
 
 Computers also have limited working memory. Just like us, they keep things in
 working memory that they're, well, working with.
@@ -51,10 +51,10 @@ Nobody is exactly sure how humans think. That's a question for science or
 philosophy. When we write our ideas down, we write them in files in _our_
 language, _text_. These files are _text files_.
 
-Types of _text_ files are HTML, letters to grandma, a list of student
-grades for a grade book program, directions to Carnegie Hall, etc. We create
-these _text_ files with _text editors_ like Visual Studio Code, Atom, Sublime
-Text, vim, or emacs.
+Types of _text_ files are HTML, letters to grandma, a list of student grades for
+a grade book program, directions to Carnegie Hall, etc. We create these _text_
+files with _text editors_ like Visual Studio Code, Atom, Sublime Text, vim, or
+emacs.
 
 > **ASIDE:** You might hear some developers call text files
 > "[plaintext][plaintext]" or "[plain text][plaintext] files" They all mean the
@@ -63,19 +63,17 @@ Text, vim, or emacs.
 ### The Curious Case of Word Processing Files
 
 What about files made by word processors Microsoft Word or MacOSX's TextEdit?
-While you're typing text, those programs store the text _as well as
-information_ about the text (which font to use, which words are in bold,
-whether these next five lines are part of a bullet-list, etc.) in the _same_
-file.  To make the loading and saving fast, these programs save the file in
-_binary_.
+While you're typing text, those programs store the text _as well as information_
+about the text (which font to use, which words are in bold, whether these next
+five lines are part of a bullet-list, etc.) in the _same_ file.  To make the
+loading and saving fast, these programs save the file in _binary_.
 
 ### Word Processors and HTML, Code
 
-Since word processing programs store their output in _binary_ files and
-programs that read HTML (like browsers) or run code (like Ruby, Python,
-JavaScript, or Java) need _text_, **Word Processors should not be used to
-create HTML or code. Developers do their work in _text editors_, not _word
-processors_.**
+Since word processing programs store their output in _binary_ files and programs
+that read HTML (like browsers) or run code (like Ruby, Python, JavaScript, or
+Java) need _text_, **Word Processors should not be used to create HTML or code.
+Developers do their work in _text editors_, not _word processors_.**
 
 ## Identify the Function of File Extensions
 
@@ -84,22 +82,21 @@ processors_.**
 Many file names have an "extension" that comes after a `.`. It is not a
 requirement, but it's a best practice. The extension is a "hint" to the
 operating system of which program should be used to work with the file.  For
-example, `LetterToGrandma.docx` has a *docx* _extension_ which _hints_ to the
-OS that it should open the file with the Word word processing program by
-Microsoft. The file `job_offer.pdf` _hints_ to the OS that it could open the
-file with either Acrobat or MacOSX's Preview application. When the OS finds
-many good options, it will ask for the user's help in selecting the right program.
+example, `LetterToGrandma.docx` has a *docx* _extension_ which _hints_ to the OS
+that it should open the file with the Word word processing program by Microsoft.
+The file `job_offer.pdf` _hints_ to the OS that it could open the file with
+either Acrobat or MacOSX's Preview application. When the OS finds many good
+options, it will ask for the user's help in selecting the right program.
 
-Changing an extension **does not** change the type of file you have. A text
-file called `groceries.txt` could be renamed `groceries.mp3` **but it would
-still be a text file**. A Toyota with a BMW medallion does not suddenly become
-a BMW. Our `groceries` did not suddenly become music because we changed the
-extension.
+Changing an extension **does not** change the type of file you have. A text file
+called `groceries.txt` could be renamed `groceries.mp3` **but it would still be
+a text file**. A Toyota with a BMW medallion does not suddenly become a BMW. Our
+`groceries` did not suddenly become music because we changed the extension.
 
-Some operating systems, like MacOSX, _hide_ the file extension by default.  They reckon
-that most users "no longer care about it." Since we're
-developers, though, we will frequently dig below the "end-user" layer. When in
-a terminal, we will see full file names - including extensions.
+Some operating systems, like MacOSX, _hide_ the file extension by default.  They
+reckon that most users "no longer care about it." Since we're developers,
+though, we will frequently dig below the "end-user" layer. When in a terminal,
+we will see full file names - including extensions.
 
 Here's a table to help train your instincts in seeing text-files versus
 binary-files:
@@ -111,7 +108,7 @@ binary-files:
 In this lesson, we have taken some time to get to know files. Files are things
 in which computers store data that needs to last a while or which their users
 might want to refer to again later. We've noted that files generally come in
-binary and text formats. And we saw that many files also have an extension
-that provides hints about which program should be used to work with the file.
+binary and text formats. And we saw that many files also have an extension that
+provides hints about which program should be used to work with the file.
 
 [plaintext]: https://en.wikipedia.org/wiki/Plain_text
