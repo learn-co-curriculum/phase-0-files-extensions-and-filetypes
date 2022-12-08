@@ -1,4 +1,4 @@
-# Files, Extensions, and File Types
+# Files and File Types
 
 ## Learning Goals
 
